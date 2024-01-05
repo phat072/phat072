@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pcphatt.072/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phan-c%E1%BA%A3-ph%C3%A1t-uit/)
 [![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?logo=slack&logoColor=white)](https://sun-xseeds.slack.com/team/U040Y2NE56X)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/phat072)
+
+
 
 
 # 💻 Tech Stack:
@@ -24,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GoLand-282C34?logo=goland&logoColor=00ACD7" alt="GoLand logo" title="GoLand" height="30" /></span>&nbsp;
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=phat072&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
