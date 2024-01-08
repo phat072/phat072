@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Phan Ca Phat 
 - 👀 I’m interested in data and basketball
 - 🌱 I’m currently learning data and web
-- 🔥 I want to beacome a software and data engineer 
+- 🔥 I want to beacome a software and data engineer
+- 🤝  I'm open to collaborating on Projects
 
 <!---
 phat072/phat072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
