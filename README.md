@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and basketball
 - 🌱 I’m currently learning data and web
 - 🔥 I want to beacome a software and data engineer
-- ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn).
+- ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn)
 - 🤝 I'm open to collaborating on Projects
 
 <!---
@@ -32,14 +32,6 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <span><img src="https://img.shields.io/badge/GoLand-282C34?logo=goland&logoColor=00ACD7" alt="GoLand logo" title="GoLand" height="30" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=00B6FF" alt="WebStorm logo" title="WebStorm" height="30" /></span>&nbsp;
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phat072&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phat072&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phat072&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ### ✍️ Random Dev Quote
