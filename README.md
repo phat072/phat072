@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Phan Ca Phat 
-- 👀 I’m interested in data and basketball
-- 🌱 I’m currently learning data and web
-- 🔥 I want to beacome a software and data engineer
-- ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn)
-- 🤝 I'm open to collaborating on Projects
+- 👋 Hi, I’m Phan Ca Phat .
+- 👀 I’m interested in data and basketball.
+- 🌱 I’m currently learning golang, java,kotlin, backend.
+- 🔥 I want to beacome a software and data engineer.
+- ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn).
+- 🤝 I'm open to collaborating on Projects.
 
 <!---
 phat072/phat072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
