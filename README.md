@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <span><img src="https://img.shields.io/badge/GoLand-282C34?logo=goland&logoColor=00ACD7" alt="GoLand logo" title="GoLand" height="30" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=00B6FF" alt="WebStorm logo" title="WebStorm" height="30" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=00B6FF" alt="WebStorm logo" title="WebStorm" height="30" /></span>&nbsp;
+<span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="30" /></span>&nbsp; 
+<span><img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="30" /></span>&nbsp; 
 
 
 ### ✍️ Random Dev Quote
