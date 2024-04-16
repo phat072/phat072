@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phan Ca Phat .
 - 👀 I’m interested in data and basketball.
 - 🌱 I’m currently learning golang, java,kotlin, backend.
-- 🔥 I want to beacome a software and data engineer.
+- 🔥 I want to beacome a software engineer.
 - ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn).
 - 🤝 I'm open to collaborating on Projects.
 
