@@ -4,7 +4,7 @@
 - 🔥 I want to beacome a software engineer.
 - ✉️ You can contact me at [phanphatlqd2003@gmail.com](mailto:phanphatlqd2003@gmail.com) or [21520389@gm.uit.edu.vn](mailto:21520389@gm.uit.edu.vn).
 - 🤝 I'm open to collaborating on Projects.
-- 🌞 Fun fact: I love Tomorrow
+- 🌞 Fun fact: I love **Tomorrow**
 
 <!---
 phat072/phat072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
