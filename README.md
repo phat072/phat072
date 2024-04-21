@@ -1,4 +1,25 @@
-- 👋 Hi, I’m Phan Ca Phat .
+<!-- ### Hi there 👋 I am Phan Ca Phat -->
+
+<!--
+**phat072/phat072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<h1 align="center">Hi <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="30px">, My Name is Phan Ca Phat</h1>
+<h2 align="center">I'm a Backend Developer.</h2>
+
+## About me 👋
 - 👀 I’m interested in data and basketball.
 - 🌱 I’m currently learning golang, java,kotlin, backend, frontend.
 - 🔥 I want to beacome a software engineer.
