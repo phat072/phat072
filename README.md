@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Phan Ca Phat</h1>
 
-<h2 align="center">I'm a Backend Developer.</h2>
+<h2 align="center">I'm a Developer.</h2>
 
 ## About me 👋
 - 👀 I’m interested in data and basketball.
