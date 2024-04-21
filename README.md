@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="30px">, My Name is Phan Ca Phat</h1>
+<h1 align="center">Hi <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >, My Name is Phan Ca Phat</h1>
 <h2 align="center">I'm a Backend Developer.</h2>
 
 ## About me 👋
