@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="175px"/></a></p>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Phan Ca Phat</h1>
 
-<h1 align="center">Hi <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >, My Name is Phan Ca Phat</h1>
 <h2 align="center">I'm a Backend Developer.</h2>
 
 ## About me 👋
